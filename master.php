@@ -27,7 +27,7 @@ $request = explode('/', trim($_SERVER['PATH_INFO'],'/'));
 // $input = json_decode(file_get_contents('php://input'),true);
 // $input = file_get_contents('php://input');
 // var_dump($input);die*();
-$link = mysqli_connect('localhost', 'id8008167_crud1', '12345678', 'id8008167_crud');
+$link = mysqli_connect('localhost', 'id8194880_cruid1', 'vanvan971', 'id8194880_cruid');
 // $link = mysqli_connect('localhost', 'root', '', 'id8008057_crud');
 mysqli_set_charset($link,'utf8');
  
